@@ -1,2 +1,1 @@
-# Rest-API-task
-Node JS
+I used postman to test the APi and it all went well...
